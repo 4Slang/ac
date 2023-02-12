@@ -1,4 +1,8 @@
 {
-    [1] = {serverip = "109.236.86.199, key = "VALANCEY-ASDKJLHFA", active = "true"},
-    [2] = {serverip = "1.1.1.1", key = "VALANCEY-KCJBLKSUASHD", active = "false"}
+    "version": "1",
+    "active": "1",
+    "VALANCY-ASASLKDHW": "1",
+    "VALANCY-KJHLASDHU": "1",
+    "VALANCY-XCBLJASGD": "1",
+    "VALANCY-QWEUIHOFS": "1"
 }
